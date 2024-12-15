@@ -1,4 +1,4 @@
-pymodaq_plugins_template
+pymodaq_plugins_adcmt (ADCMT/Advantest)
 ########################
 
 .. the following must be adapted to your developed package, links to pypi, github  description...
